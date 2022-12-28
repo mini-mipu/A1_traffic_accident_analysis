@@ -10,11 +10,8 @@
 
 raw data: NPA_TMA1-2.csv
 
-資料篩選條件：每筆事故只用第一當事人資料
-			不含發生在國道的資料，僅分析一般道路
 
-traffic_accident_data_v0.csv:
-	移除日期時間資訊、事故類別名稱、經緯度
+
 
 
 
