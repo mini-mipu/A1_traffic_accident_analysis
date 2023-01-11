@@ -11,7 +11,7 @@
 A1 data: NPA_TMA1-2.csv  
 A2 data: A2_data  
   
-data_process.py: 合併A1,A2。只保留高雄市三民區kaohsiung_a1a2_accidents_data.csv  
+data_process.py: 合併A1,A2。只保留高雄市三民區 --> kaohsiung_a1a2_accidents_data.csv  
 main.py: 主程式  
   
 result.csv: 分群結果  
