@@ -8,10 +8,13 @@
 	http://wwwdata.fy.edu.tw/fyml/%E4%BA%A4%E9%80%9A%E5%AE%89%E5%85%A8%E6%95%99%E6%9D%90/%E4%BA%A4%E9%80%9A%E7%9B%B8%E9%97%9C%E6%B3%95%E8%A6%8F%E6%96%BC%E4%BA%8B%E6%95%85%E8%99%95%E7%90%86%E4%B9%8B%E6%87%89%E7%94%A8(93%E5%B9%B4).ppt
 
 
-raw data: NPA_TMA1-2.csv
-
-
-
+A1 data: NPA_TMA1-2.csv  
+A2 data: A2_data  
+  
+data_process.py: 合併A1,A2。只保留高雄市三民區  
+main.py: 主程式  
+  
+result.csv: 分群結果  
 
 
 
